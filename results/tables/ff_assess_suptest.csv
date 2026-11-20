@@ -1,0 +1,3 @@
+source,Variable,MaxAbsValue,Replications,Seed,pvalue
+Real,age,16.3887,1000,20081235,0.0590
+Plasmode,age,54.3601,1000,20081235,0.0010

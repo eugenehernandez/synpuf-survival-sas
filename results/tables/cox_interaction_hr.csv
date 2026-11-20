@@ -1,0 +1,7 @@
+Label,Description,HazardRatio,WaldLower,WaldUpper
+"CHF vs no CHF at ages 70, 80, 90 by sex",chf Unit=1 At agec=-5 female=0,0.920,0.777,1.089
+"CHF vs no CHF at ages 70, 80, 90 by sex",chf Unit=1 At agec=-5 female=1,0.994,0.844,1.170
+"CHF vs no CHF at ages 70, 80, 90 by sex",chf Unit=1 At agec=5 female=0,1.009,0.860,1.185
+"CHF vs no CHF at ages 70, 80, 90 by sex",chf Unit=1 At agec=5 female=1,1.090,0.946,1.256
+"CHF vs no CHF at ages 70, 80, 90 by sex",chf Unit=1 At agec=15 female=0,1.108,0.888,1.382
+"CHF vs no CHF at ages 70, 80, 90 by sex",chf Unit=1 At agec=15 female=1,1.196,0.981,1.460

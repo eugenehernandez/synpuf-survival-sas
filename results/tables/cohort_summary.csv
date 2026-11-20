@@ -1,0 +1,5 @@
+cohort,n,deaths,chf_n,chf_deaths,ltfu_censored,sum_days,person_years
+"Primary: 65+, fee-for-service 2008",61184,2040,19871,684,0,43903562,"120,201.4"
+Sensitivity: all 65+,95730,3139,27388,910,0,68699301,"188,088.4"
+Sensitivity: all ages,114538,3647,32652,1054,0,82239826,"225,160.4"
+Sensitivity: coverage censoring,55075,1933,17893,644,0,37069718,"101,491.4"

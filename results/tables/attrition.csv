@@ -1,0 +1,6 @@
+step,description,n_remaining,n_excluded
+1,Beneficiaries in the 2008 Beneficiary Summary File,116352,
+2,"Excluded: death recorded on or before December 31, 2008",114538,1814
+3,Excluded: alive but absent from the 2009 file,114538,0
+4,"Excluded: younger than 65 on January 1, 2009",95730,18808
+5,Excluded: not 12 months Part A and Part B with no Medicare Advantage in 2008,61184,34546

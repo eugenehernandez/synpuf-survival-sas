@@ -1,0 +1,3 @@
+source,n_removed,beta_chf_all,beta_chf_without,actual_change,approx_change,actual_change_in_se
+Real,20,0.023271,0.030599,0.007328,0.007101,0.127
+Plasmode,20,0.463628,0.464444,0.000816,0.000810,0.033

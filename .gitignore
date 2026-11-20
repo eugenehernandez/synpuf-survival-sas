@@ -1,0 +1,38 @@
+# Raw data never enters the repository. Keep the DE-SynPUF files outside it.
+*.csv
+*.zip
+# Small aggregated tables are the only CSVs that are committed.
+!results/tables/*.csv
+!validation/*.csv
+
+# Machine-specific data location (copy sas/local_config_template.sas)
+sas/local_config.sas
+
+# SAS datasets, catalogs, views, indexes, logs, and listings
+*.sas7bdat
+*.sas7bcat
+*.sas7bvew
+*.sas7bndx
+*.sas7butl
+*.log
+*.lst
+
+# Work libraries
+_work/
+work/
+saswork/
+
+# SAS Enterprise Guide projects and backups
+*.egp
+*.egp.bak
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

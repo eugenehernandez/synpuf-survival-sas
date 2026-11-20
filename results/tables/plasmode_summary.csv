@@ -1,0 +1,2 @@
+n,deaths,mortality,mortality_chf,mortality_nochf,random_censored,admin_censored,event_times_monthly,event_times_daily,sum_time,sum_time_day,log_lambda
+61184,10395,0.1699,0.2406,0.1359,2792,47997,24,730,39592139,39785509,-9.947540473

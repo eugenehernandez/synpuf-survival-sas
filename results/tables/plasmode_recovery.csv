@@ -1,0 +1,81 @@
+spec,spec_label,ord,param,truth,Estimate,StdErr,lcl,ucl,bias,z,covered
+DE,"Daily dates, Efron",1,chf,1.6000,1.3807,0.1199,1.1457,1.6158,-0.2193,-1.83,1
+DE,"Daily dates, Efron",2,chf_lt,-0.2000,-0.1633,0.0210,-0.2044,-0.1222,0.0367,1.75,1
+DE,"Daily dates, Efron",3,agec,0.0300,0.0301,0.0018,0.0266,0.0336,0.0001,0.06,1
+DE,"Daily dates, Efron",4,agec2,0.0015,0.0015,0.0001,0.0013,0.0017,-0.0000,-0.08,1
+DE,"Daily dates, Efron",5,female,-0.2231,-0.2152,0.0199,-0.2541,-0.1762,0.0080,0.40,1
+DE,"Daily dates, Efron",6,diab,0.2624,0.2639,0.0250,0.2149,0.3129,0.0015,0.06,1
+DE,"Daily dates, Efron",7,race_black,0.0000,0.0453,0.0360,-0.0253,0.1160,0.0453,1.26,1
+DE,"Daily dates, Efron",8,race_other,0.0000,0.0775,0.0517,-0.0237,0.1788,0.0775,1.50,1
+DE,"Daily dates, Efron",9,race_hisp,0.0000,-0.0469,0.0746,-0.1931,0.0993,-0.0469,-0.63,1
+DE,"Daily dates, Efron",10,esrd,0.0000,-0.0206,0.0362,-0.0915,0.0503,-0.0206,-0.57,1
+DE,"Daily dates, Efron",11,alzh,0.0000,0.0164,0.0247,-0.0320,0.0647,0.0164,0.66,1
+DE,"Daily dates, Efron",12,ckd,0.0000,-0.0034,0.0286,-0.0595,0.0526,-0.0034,-0.12,1
+DE,"Daily dates, Efron",13,cancer,0.0000,0.0017,0.0352,-0.0672,0.0707,0.0017,0.05,1
+DE,"Daily dates, Efron",14,copd,0.0000,0.0307,0.0274,-0.0231,0.0845,0.0307,1.12,1
+DE,"Daily dates, Efron",15,depress,0.0000,-0.0063,0.0241,-0.0536,0.0410,-0.0063,-0.26,1
+DE,"Daily dates, Efron",16,ihd,0.0000,-0.0150,0.0256,-0.0652,0.0352,-0.0150,-0.59,1
+DE,"Daily dates, Efron",17,osteo,0.0000,-0.0052,0.0246,-0.0534,0.0430,-0.0052,-0.21,1
+DE,"Daily dates, Efron",18,raoa,0.0000,-0.0134,0.0257,-0.0638,0.0370,-0.0134,-0.52,1
+DE,"Daily dates, Efron",19,stroke,0.0000,0.0481,0.0398,-0.0299,0.1262,0.0481,1.21,1
+DE,"Daily dates, Efron",20,logreimb,0.0000,0.0001,0.0049,-0.0096,0.0098,0.0001,0.02,1
+MB,"Monthly dates, Breslow",1,chf,1.6000,1.0815,0.0870,0.9109,1.2520,-0.5185,-5.96,0
+MB,"Monthly dates, Breslow",2,chf_lt,-0.2000,-0.1134,0.0153,-0.1434,-0.0833,0.0866,5.65,0
+MB,"Monthly dates, Breslow",3,agec,0.0300,0.0300,0.0018,0.0266,0.0335,0.0000,0.02,1
+MB,"Monthly dates, Breslow",4,agec2,0.0015,0.0015,0.0001,0.0013,0.0017,-0.0000,-0.25,1
+MB,"Monthly dates, Breslow",5,female,-0.2231,-0.2139,0.0199,-0.2529,-0.1750,0.0092,0.46,1
+MB,"Monthly dates, Breslow",6,diab,0.2624,0.2626,0.0250,0.2136,0.3116,0.0003,0.01,1
+MB,"Monthly dates, Breslow",7,race_black,0.0000,0.0448,0.0360,-0.0258,0.1155,0.0448,1.24,1
+MB,"Monthly dates, Breslow",8,race_other,0.0000,0.0766,0.0517,-0.0247,0.1779,0.0766,1.48,1
+MB,"Monthly dates, Breslow",9,race_hisp,0.0000,-0.0467,0.0746,-0.1928,0.0995,-0.0467,-0.63,1
+MB,"Monthly dates, Breslow",10,esrd,0.0000,-0.0207,0.0362,-0.0915,0.0502,-0.0207,-0.57,1
+MB,"Monthly dates, Breslow",11,alzh,0.0000,0.0161,0.0247,-0.0322,0.0645,0.0161,0.65,1
+MB,"Monthly dates, Breslow",12,ckd,0.0000,-0.0036,0.0286,-0.0596,0.0524,-0.0036,-0.13,1
+MB,"Monthly dates, Breslow",13,cancer,0.0000,0.0016,0.0352,-0.0673,0.0705,0.0016,0.05,1
+MB,"Monthly dates, Breslow",14,copd,0.0000,0.0304,0.0274,-0.0234,0.0841,0.0304,1.11,1
+MB,"Monthly dates, Breslow",15,depress,0.0000,-0.0062,0.0241,-0.0536,0.0411,-0.0062,-0.26,1
+MB,"Monthly dates, Breslow",16,ihd,0.0000,-0.0148,0.0256,-0.0650,0.0354,-0.0148,-0.58,1
+MB,"Monthly dates, Breslow",17,osteo,0.0000,-0.0049,0.0246,-0.0531,0.0432,-0.0049,-0.20,1
+MB,"Monthly dates, Breslow",18,raoa,0.0000,-0.0134,0.0257,-0.0638,0.0370,-0.0134,-0.52,1
+MB,"Monthly dates, Breslow",19,stroke,0.0000,0.0482,0.0398,-0.0299,0.1262,0.0482,1.21,1
+MB,"Monthly dates, Breslow",20,logreimb,0.0000,0.0001,0.0049,-0.0096,0.0097,0.0001,0.02,1
+ME,"Monthly dates, Efron",1,chf,1.6000,1.0864,0.0870,0.9158,1.2570,-0.5136,-5.90,0
+ME,"Monthly dates, Efron",2,chf_lt,-0.2000,-0.1138,0.0153,-0.1439,-0.0838,0.0862,5.62,0
+ME,"Monthly dates, Efron",3,agec,0.0300,0.0301,0.0018,0.0267,0.0336,0.0001,0.07,1
+ME,"Monthly dates, Efron",4,agec2,0.0015,0.0015,0.0001,0.0013,0.0017,-0.0000,-0.09,1
+ME,"Monthly dates, Efron",5,female,-0.2231,-0.2150,0.0199,-0.2540,-0.1761,0.0081,0.41,1
+ME,"Monthly dates, Efron",6,diab,0.2624,0.2639,0.0250,0.2149,0.3129,0.0015,0.06,1
+ME,"Monthly dates, Efron",7,race_black,0.0000,0.0451,0.0360,-0.0256,0.1157,0.0451,1.25,1
+ME,"Monthly dates, Efron",8,race_other,0.0000,0.0774,0.0517,-0.0239,0.1786,0.0774,1.50,1
+ME,"Monthly dates, Efron",9,race_hisp,0.0000,-0.0469,0.0746,-0.1931,0.0993,-0.0469,-0.63,1
+ME,"Monthly dates, Efron",10,esrd,0.0000,-0.0206,0.0362,-0.0915,0.0503,-0.0206,-0.57,1
+ME,"Monthly dates, Efron",11,alzh,0.0000,0.0164,0.0247,-0.0319,0.0648,0.0164,0.67,1
+ME,"Monthly dates, Efron",12,ckd,0.0000,-0.0035,0.0286,-0.0595,0.0525,-0.0035,-0.12,1
+ME,"Monthly dates, Efron",13,cancer,0.0000,0.0017,0.0352,-0.0672,0.0706,0.0017,0.05,1
+ME,"Monthly dates, Efron",14,copd,0.0000,0.0306,0.0274,-0.0231,0.0844,0.0306,1.12,1
+ME,"Monthly dates, Efron",15,depress,0.0000,-0.0062,0.0241,-0.0535,0.0412,-0.0062,-0.25,1
+ME,"Monthly dates, Efron",16,ihd,0.0000,-0.0150,0.0256,-0.0652,0.0352,-0.0150,-0.59,1
+ME,"Monthly dates, Efron",17,osteo,0.0000,-0.0050,0.0246,-0.0531,0.0432,-0.0050,-0.20,1
+ME,"Monthly dates, Efron",18,raoa,0.0000,-0.0134,0.0257,-0.0638,0.0370,-0.0134,-0.52,1
+ME,"Monthly dates, Efron",19,stroke,0.0000,0.0484,0.0398,-0.0296,0.1265,0.0484,1.22,1
+ME,"Monthly dates, Efron",20,logreimb,0.0000,0.0001,0.0049,-0.0096,0.0097,0.0001,0.01,1
+MM,"Monthly dates, Efron, log(time + 15)",1,chf,1.6000,1.4358,0.1262,1.1885,1.6831,-0.1642,-1.30,1
+MM,"Monthly dates, Efron, log(time + 15)",2,chf_lt,-0.2000,-0.1727,0.0221,-0.2160,-0.1295,0.0273,1.24,1
+MM,"Monthly dates, Efron, log(time + 15)",3,agec,0.0300,0.0301,0.0018,0.0267,0.0336,0.0001,0.07,1
+MM,"Monthly dates, Efron, log(time + 15)",4,agec2,0.0015,0.0015,0.0001,0.0013,0.0017,-0.0000,-0.09,1
+MM,"Monthly dates, Efron, log(time + 15)",5,female,-0.2231,-0.2150,0.0199,-0.2539,-0.1760,0.0082,0.41,1
+MM,"Monthly dates, Efron, log(time + 15)",6,diab,0.2624,0.2639,0.0250,0.2149,0.3129,0.0015,0.06,1
+MM,"Monthly dates, Efron, log(time + 15)",7,race_black,0.0000,0.0451,0.0360,-0.0256,0.1157,0.0451,1.25,1
+MM,"Monthly dates, Efron, log(time + 15)",8,race_other,0.0000,0.0774,0.0517,-0.0239,0.1786,0.0774,1.50,1
+MM,"Monthly dates, Efron, log(time + 15)",9,race_hisp,0.0000,-0.0468,0.0746,-0.1930,0.0994,-0.0468,-0.63,1
+MM,"Monthly dates, Efron, log(time + 15)",10,esrd,0.0000,-0.0206,0.0362,-0.0915,0.0502,-0.0206,-0.57,1
+MM,"Monthly dates, Efron, log(time + 15)",11,alzh,0.0000,0.0164,0.0247,-0.0320,0.0647,0.0164,0.66,1
+MM,"Monthly dates, Efron, log(time + 15)",12,ckd,0.0000,-0.0036,0.0286,-0.0596,0.0524,-0.0036,-0.13,1
+MM,"Monthly dates, Efron, log(time + 15)",13,cancer,0.0000,0.0017,0.0352,-0.0673,0.0706,0.0017,0.05,1
+MM,"Monthly dates, Efron, log(time + 15)",14,copd,0.0000,0.0306,0.0274,-0.0232,0.0844,0.0306,1.11,1
+MM,"Monthly dates, Efron, log(time + 15)",15,depress,0.0000,-0.0061,0.0241,-0.0535,0.0412,-0.0061,-0.25,1
+MM,"Monthly dates, Efron, log(time + 15)",16,ihd,0.0000,-0.0150,0.0256,-0.0652,0.0352,-0.0150,-0.59,1
+MM,"Monthly dates, Efron, log(time + 15)",17,osteo,0.0000,-0.0049,0.0246,-0.0531,0.0432,-0.0049,-0.20,1
+MM,"Monthly dates, Efron, log(time + 15)",18,raoa,0.0000,-0.0134,0.0257,-0.0638,0.0370,-0.0134,-0.52,1
+MM,"Monthly dates, Efron, log(time + 15)",19,stroke,0.0000,0.0484,0.0398,-0.0297,0.1264,0.0484,1.22,1
+MM,"Monthly dates, Efron, log(time + 15)",20,logreimb,0.0000,0.0001,0.0049,-0.0096,0.0098,0.0001,0.02,1

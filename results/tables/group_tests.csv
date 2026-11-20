@@ -1,0 +1,7 @@
+Test,ChiSq,DF,ProbChiSq
+Log-Rank,1.0753,1,0.2998
+Wilcoxon,1.0849,1,0.2976
+Tarone,1.0801,1,0.2987
+Peto,1.0851,1,0.2976
+Modified Peto,1.0851,1,0.2976
+"Fleming(0,1)",0.4112,1,0.5214

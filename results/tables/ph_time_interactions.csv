@@ -1,0 +1,12 @@
+source,version,covariate,time_term,Estimate,StdErr,ChiSq,ProbChiSq,z
+Real,Naive,chf,log(time),-0.01447,0.03265,0.1964,0.6576,-0.44
+Real,Naive,age,log(time),-0.00280,0.00190,2.1693,0.1408,-1.47
+Real,Naive,female,log(time),-0.00850,0.03129,0.0739,0.7858,-0.27
+Real,Naive,diab,log(time),-0.02823,0.03116,0.8211,0.3649,-0.91
+Plasmode,Naive,chf,log(time),-0.11511,0.01533,56.3798,<.0001,-7.51
+Plasmode,Naive,age,log(time),-0.00113,0.0008479,1.7877,0.1812,-1.34
+Plasmode,Naive,female,log(time),-0.02184,0.01508,2.0979,0.1475,-1.45
+Plasmode,Naive,diab,log(time),-0.06381,0.01539,17.1883,<.0001,-4.15
+Plasmode,Correctly specified,agec,log(time + 15),0.0000262,0.00117,0.0005,0.9822,0.02
+Plasmode,Correctly specified,female,log(time + 15),-0.02847,0.02192,1.6872,0.1940,-1.30
+Plasmode,Correctly specified,diab,log(time + 15),-0.02874,0.02431,1.3978,0.2371,-1.18
